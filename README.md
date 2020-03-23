@@ -1,1 +1,2 @@
 # Wordpress-newTheme
+# solitude-project
